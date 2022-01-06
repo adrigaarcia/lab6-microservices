@@ -52,4 +52,4 @@ by a PR so other fellow can try it.
 
 | NIA | User name | Repo | Improvement | Score |
 |-----|-----------|------|-------------|-------|
-|     |           |      |             |       |
+| 722292 | [Adrián García](https://github.com/adrigaarcia/lab6-microservices)|[Primary Goal](https://github.com/adrigaarcia/lab6-microservices/blob/test/primary_goal.md)| | |
